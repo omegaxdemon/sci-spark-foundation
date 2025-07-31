@@ -181,9 +181,9 @@ const Contact = () => {
 /> */}
                     <iframe 
                       title="Google Map"
-                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3684.806609108503!2d88.35359707529979!3d22.548916079508654!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a02771aad282713%3A0x62c7778aead16f97!2sSt.%20Xavier&#39;s%20College%20(Autonomous)%20-%20Kolkata!5e0!3m2!1sen!2sin!4v1753936930774!5m2!1sen!2sin" 
+                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3684.806609108503!2d88.35359707529979!3d22.548916079508654!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a02771aad282713%3A0x62c7778aead16f97!2sSt.%20Xavier%27;s%20College%20(Autonomous)%20-%20Kolkata!5e0!3m2!1sen!2sin!4v1753936930774!5m2!1sen!2sin" 
                       width="600" height="450" style="border:0;" 
-                      allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+                      allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade">
                     </iframe>
                   </div>
                 </div>
