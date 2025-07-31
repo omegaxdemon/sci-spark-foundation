@@ -8,13 +8,13 @@ const Footer = () => {
           </div>
           <div className="col-md-6 text-md-end">
             <div className="social-icons">
-              <a href="#" className="text-decoration-none">
+              <a href="https://www.facebook.com/groups/467928009913476/" className="text-decoration-none">
                 <i className="fab fa-facebook"></i>
               </a>
-              <a href="#" className="text-decoration-none">
+              <a href="https://www.instagram.com/sxcsa_official/" className="text-decoration-none">
                 <i className="fab fa-instagram"></i>
               </a>
-              <a href="#" className="text-decoration-none">
+              <a href="https://www.linkedin.com/company/st-xavier-s-college-science-association/?originalSubdomain=in" className="text-decoration-none">
                 <i className="fab fa-linkedin"></i>
               </a>
             </div>
