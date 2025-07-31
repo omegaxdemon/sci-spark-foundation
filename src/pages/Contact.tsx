@@ -207,19 +207,19 @@ const Contact = () => {
                   </p>
                   <div className="row">
                     <div className="col-md-4">
-                      <a href="#" className="btn btn-custom w-100">
+                      <a href="https://www.facebook.com/groups/467928009913476/" className="btn btn-custom w-100">
                         <i className="fab fa-facebook me-2"></i>
                         Facebook
                       </a>
                     </div>
                     <div className="col-md-4">
-                      <a href="#" className="btn btn-custom w-100">
+                      <a href="https://www.instagram.com/sxcsa_official/" className="btn btn-custom w-100">
                         <i className="fab fa-instagram me-2"></i>
                         Instagram
                       </a>
                     </div>
                     <div className="col-md-4">
-                      <a href="#" className="btn btn-custom w-100">
+                      <a href="https://in.linkedin.com/company/st-xavier-s-college-science-association" className="btn btn-custom w-100">
                         <i className="fab fa-linkedin me-2"></i>
                         LinkedIn
                       </a>
