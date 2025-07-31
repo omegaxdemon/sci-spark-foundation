@@ -4,7 +4,7 @@ const Footer = () => {
       <div className="container">
         <div className="row align-items-center">
           <div className="col-md-6">
-            <p className="mb-0">&copy; 2024 Science Association</p>
+            <p className="mb-0">&copy; 2026 Science Association</p>
           </div>
           <div className="col-md-6 text-md-end">
             <div className="social-icons">
