@@ -169,26 +169,17 @@ const Contact = () => {
                       borderRadius: '15px'
                     }}
                   >
-{/*                     <iframe
+                    <iframe
   title="Google Map"
-  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3683.0215223770036!2d88.3498338149633!3d22.552567185178742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a0277aa0d555555%3A0x5dd8b7ea6ab05ac!2sSt.%20Xavier's%20College%2C%20Kolkata!5e0!3m2!1sen!2sin!4v1655911123456!5m2!1sen!2sin"
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3683.0215223770036!2d88.3498338149633!3d22.552567185178742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a0277aa0d555555%3A0x5dd8b7ea6ab05ac!2sSt.%20Xavier%27s%20College%2C%20Kolkata!5e0!3m2!1sen!2sin!4v1655911123456!5m2!1sen!2sin"
   width="100%"
   height="400"
   style={{ border: 0, borderRadius: '15px' }}
   allowFullScreen=""
   loading="lazy"
   referrerPolicy="no-referrer-when-downgrade"
-/> */}
-<iframe 
-  title="Google Map"
-  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3683.0215223770036!2d88.3498338149633!3d22.552567185178742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a0277aa0d555555%3A0x5dd8b7ea6ab05ac!2sSt.%20Xavier%27s%20College%2C%20Kolkata!5e0!3m2!1sen!2sin!4v1655911123456!5m2!1sen!2sin" 
-  width="600" 
-  height="450" 
-  style={{ border: 0, borderRadius: '15px' }} 
-  allowFullScreen 
-  loading="lazy" 
-  referrerPolicy="no-referrer-when-downgrade">
-</iframe>
+/>
+
 
                   </div>
                 </div>
