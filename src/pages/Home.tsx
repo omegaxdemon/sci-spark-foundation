@@ -53,7 +53,7 @@ const Home = () => {
             <div className="col-lg-8">
               <div className="hero-content fade-in">
                 <h1 className="hero-title">SCIENCE ASSOCIATION</h1>
-                <p className="hero-subtitle" style="font-family:'Old English Text MT'">St. Xavier's College Kolkata</p>
+                <p className="hero-subtitle">St. Xavier's College Kolkata</p>
                 <p className="lead">Exploring the frontiers of scientific knowledge and innovation</p>
                 <button className="btn btn-custom mt-4">Discover More</button>
               </div>
